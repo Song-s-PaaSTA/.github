@@ -69,11 +69,11 @@
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [**노경희**](https://github.com/khee2)     | Backend, Cloud 인프라 관리 |
-| [**유윤지**](https://github.com/lehiewl)     | Frontend              |
-| [**이가을**](https://github.com/gaeulzzang)  | Frontend              |
-| [**이예지**](https://github.com/lyezzil)     | Data                  |
-| [**하고은**](https://github.com/hagoeun0119) | Backend, Cloud 인프라 관리 |
+| [**노경희**](https://github.com/khee2)     | Backend |
+| [**유윤지**](https://github.com/lehiewl)     | Frontend  |
+| [**이가을**](https://github.com/gaeulzzang)  | Frontend  |
+| [**이예지**](https://github.com/lyezzil)     | Data  |
+| [**하고은**](https://github.com/hagoeun0119) | PM, Backend |
 
 </br>
 
